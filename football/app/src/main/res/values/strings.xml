@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">football</string>
+    <string name="title">Чемпионат мира по футболу</string>
+    <string name="teamhomefield">Команда хозяев</string>
+    <string name="teamguestfield">Команда гостей</string>
+    <string name="goalshomefield">Голы хозяев</string>
+    <string name="goalsguestfield">Голы гостей</string>
+    <string name="save">Сохранить</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="icon">Icon</string>
+    <string name="deleteAll">Удалить все</string>
+    <string name="exit">Выход</string>
+    <string name="add">Добавить</string>
+
+</resources>
